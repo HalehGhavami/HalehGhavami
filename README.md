@@ -1,6 +1,7 @@
-# I'm Haleh :sun_with_face:
-    *I am a Fullstack developer based on Earth :earth_americas:
-    *I decided to shift from being just a consumer to being a producer:seedling:
-    *I learned programming to realize my idea with love :hearts:
-    *I like to solve problems :key:
-    *I am a T-shaped person :star::star::star:
+#  HELLO WORLD :sun_with_face:
+###  I'm Haleh
+    -I am a Fullstack developer based on Earth 🌎
+    -I decided to shift from being just a consumer to being a producer🌱
+    -I learned programming to realize my idea with love ❤️
+    -I like to solve problems 🔑
+    -I am a T-shaped person ⭐⭐⭐
