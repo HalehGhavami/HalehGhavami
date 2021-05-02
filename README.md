@@ -7,5 +7,12 @@
   + I am a T-shaped person ⭐⭐⭐
 <br>
 
->   "Whether you want to uncover the secrets of the universe, or you want to pursue a   career in the 21st century, basic computer programming is an essential skill to >learn."
->  -Stephen Hawking
+>   "Whether you want to uncover the secrets of the universe, or you want to pursue a   career in the 21st century, basic computer programming is an essential skill to learn."
+>   *Stephen Hawking*
+>  <br>
+  
+  [![HalehGhavami's GitHub stats](https://github-readme-stats.vercel.app/api?username=HalehGhavami&&hide=stars&theme=synthwave)](https://github.com/HalehGhavami/github-readme-stats)
+ 
+
+
+
