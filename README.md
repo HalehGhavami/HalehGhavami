@@ -11,7 +11,7 @@
 >   *Stephen Hawking*
 >  <br>
   
-  [![HalehGhavami's GitHub stats](https://github-readme-stats.vercel.app/api?username=HalehGhavami&&hide=stars&theme=synthwave)](https://github.com/HalehGhavami/github-readme-stats)
+  ![HalehGhavami's GitHub stats](https://github-readme-stats.vercel.app/api?username=HalehGhavami&&hide=stars&show_icons=true&theme=radical)
  
 
 
