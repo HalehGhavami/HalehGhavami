@@ -5,6 +5,7 @@
   + I learned programming to realize my idea with love ❤️
   + I like to solve problems 🔑
   + I am a T-shaped person ⭐⭐⭐
+  + Reach me: <a href="https://www.linkedin.com/in/halehghavami/" target="_blank">LinkedIn</a> 💫
 <br>
 
 >   "Whether you want to uncover the secrets of the universe, or you want to pursue a   career in the 21st century, basic computer programming is an essential skill to learn."
