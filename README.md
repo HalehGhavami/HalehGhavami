@@ -6,7 +6,7 @@
   + I like to solve problems 🔑
   + I am a T-shaped person ⭐⭐⭐
   + Reach me: <a href="https://www.linkedin.com/in/halehghavami/" target="_blank">LinkedIn</a> 💫
-  + [My GitHub Portfolio](https://HalehGhavami.github.io/)
+  + [My Portfolio](halehghavami.github.io/portfolio-website/)
 <br>
 
 >   "Whether you want to uncover the secrets of the universe, or you want to pursue a   career in the 21st century, basic computer programming is an essential skill to learn."
