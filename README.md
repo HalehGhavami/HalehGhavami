@@ -9,8 +9,8 @@
   + [My Portfolio](https://halehghavami.github.io/portfolio-website/)
 <br>
 
->   "Whether you want to uncover the secrets of the universe, or you want to pursue a   career in the 21st century, basic computer programming is an essential skill to learn."
->   *Stephen Hawking*
+>   "Everyone who is left far from his source wishes back the time when he was united with it"
+     ~Rumi
 >  <br>
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HalehGhavami&layout=compact&show_icons=true&theme=chartreuse-dark)
