@@ -3,7 +3,7 @@
   + I am a Full-stack Web Developer based on Earth 🌎
   + I decided to shift from being just a consumer to being a producer🌱
   + I learned programming to realize my idea with love ❤️
-  + I like to solve problems 🔑
+  + I don't believe in problems but I am known as a good problem-solver. 🔑
   + I am a T-shaped person ⭐⭐⭐
   + Reach me: <a href="https://www.linkedin.com/in/halehghavami/" target="_blank">LinkedIn</a> 💫
   + [My Portfolio](https://halehghavami.github.io/portfolio-website/)
