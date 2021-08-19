@@ -1,12 +1,10 @@
-## HELLO WORLD :sun_with_face:
-### I'm Haleh Ghavami
-  + I am a Full-stack Web Developer based on Earth 🌎
-  + I decided to shift from being just a consumer to being a producer🌱
-  + I learned programming to realize my idea with love ❤️
-  + I don't believe in problems but I am known as a good problem-solver. 🔑
-  + I am a T-shaped person ⭐⭐⭐
-  + Reach me: <a href="https://www.linkedin.com/in/halehghavami/" target="_blank">LinkedIn</a> 💫
-  + [My Portfolio](https://halehghavami.github.io/portfolio-website/)
+## <p align="center">I am Haleh Ghavami (Nafas)</p>
+<p align="center">
+  <img src="developer.jpg" width="520">
+  </p>
+ 
+  + Reach me: <a href="https://www.linkedin.com/in/halehghavami/" target="_blank">on LinkedIn</a> 💫
+  + My Story:[ at My Portfolio](https://halehghavami.github.io/portfolio-website/)
 ### Tools and Technologies
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="24px" /> HTML
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="24px" /> CSS
