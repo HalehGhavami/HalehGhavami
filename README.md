@@ -4,7 +4,7 @@
   </p>
  
   + Reach me: <a href="https://www.linkedin.com/in/halehghavami/" target="_blank">on LinkedIn</a> 💫
-  + My Story:[ at My Portfolio](https://halehghavami.github.io/portfolio-website/)
+  + My Story:[ at My Portfolio](https://halehghavami.com/)
 ### Tools and Technologies
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="24px" /> HTML
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="24px" /> CSS
